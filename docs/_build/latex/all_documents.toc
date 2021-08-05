@@ -1,0 +1,10 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Guides in English}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Operational Guide}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Citations}{1}{subsection.1.1.1}
+\contentsline {subsubsection}{Test section}{1}{subsubsection*.6}
+\contentsline {paragraph}{Test Subsection}{1}{paragraph*.7}
+\contentsline {subsection}{\numberline {1.1.2}Footnotes}{1}{subsection.1.1.2}
+\contentsline {subsubsection}{Test section}{2}{subsubsection*.11}
+\contentsline {paragraph}{Test Subsection}{2}{paragraph*.12}
+\contentsline {chapter}{Bibliography}{3}{chapter*.13}

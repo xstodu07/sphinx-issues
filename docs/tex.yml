@@ -1,0 +1,22 @@
+tex:
+- index:
+    category: manual
+    dir: doc-all
+    target: all_documents
+    title: All documents
+
+#########################
+# EN Guides - operational
+#########################
+
+- guides/operational/cso/footnotes:
+    category: manual
+    dir: reproduced-problem-en1
+    target: footnotes
+    title: Problem with Footnotes
+
+- guides/operational/cso/citations:
+    category: manual
+    dir: reproduced-problem-en2
+    target: citations
+    title: Problem with Citations
